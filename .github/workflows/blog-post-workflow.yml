@@ -1,0 +1,23 @@
+# Save as: .github/workflows/blog-post-workflow.yml
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # daily 06:00 JST
+  workflow_dispatch:        # run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://offnadir-delta.com/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest blog posts"
