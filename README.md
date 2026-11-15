@@ -30,18 +30,15 @@ A WebGIS platform that combines satellite imagery (Sentinel, VIIRS, FIRMS) with 
 
 `Next.js` `Supabase / PostGIS` `MapLibre` `STAC` `MCP`
 
-<!-- Optional: add a screenshot -->
-<!-- <a href="https://offnadir-delta.com"><img src="./assets/offnadir-delta.png" alt="Off-Nadir Delta" width="720"></a> -->
+📦 [MCP server](https://github.com/Off-Nadir-Lab/offnadir-delta-mcp) · [Python SDK](https://github.com/Off-Nadir-Lab/offnadir-delta-sdk) · [Examples](https://github.com/Off-Nadir-Lab/offnadir-delta-examples) — listed in the official MCP Registry
+
+<a href="https://offnadir-delta.com/watchfloor"><img src="./assets/offnadir-delta-watchfloor.png" alt="Off-Nadir Delta Watchfloor — live geolocated events on a world map" width="100%"></a>
 
 👉 **[offnadir-delta.com](https://offnadir-delta.com)**
 
 ### ✍️ Latest from the blog
 
-<!-- BLOG-POST-LIST:START -->- [Does Giving AI Structured Event Data Improve Its Answers? Research and 10 Side-by-Side Trials](https://offnadir-delta.com/blog/structured-event-data-ai-forecasting-evidence) <sub>2026-11-13</sub>
-- [Commercial SAR Satellites Compared: ICEYE, Capella, Umbra](https://offnadir-delta.com/blog/commercial-sar-satellite-constellations-compared) <sub>2026-11-12</sub>
-- [EOS LandViewer Alternatives: Free Satellite Image Browsers](https://offnadir-delta.com/blog/eos-landviewer-alternatives) <sub>2026-11-12</sub>
-- [Is There Live Satellite Imagery? How Fast Data Arrives](https://offnadir-delta.com/blog/live-satellite-imagery-data-latency) <sub>2026-11-12</sub>
-- [Panchromatic Imagery: What It Is vs Multispectral](https://offnadir-delta.com/blog/panchromatic-vs-multispectral-imagery) <sub>2026-11-12</sub>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 📄 Publications & Talks
