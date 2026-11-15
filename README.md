@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://offnadir-delta.com"><img src="https://img.shields.io/badge/Off--Nadir_Delta-WebGIS-0A66C2?style=flat-square&logo=mapbox&logoColor=white" alt="Off-Nadir Delta"></a>
   <a href="https://www.linkedin.com/in/kazushi-motomura-ph-d-bb168b28/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://researchmap.jp/kazushi_fa"><img src="https://img.shields.io/badge/researchmap-2E7D32?style=flat-square&logo=googlescholar&logoColor=white" alt="researchmap"></a>
   <a href="https://x.com/kazushi_fa"><img src="https://img.shields.io/badge/@kazushi__fa-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
@@ -33,6 +34,20 @@ A WebGIS platform that combines satellite imagery (Sentinel, VIIRS, FIRMS) with 
 <!-- <a href="https://offnadir-delta.com"><img src="./assets/offnadir-delta.png" alt="Off-Nadir Delta" width="720"></a> -->
 
 👉 **[offnadir-delta.com](https://offnadir-delta.com)**
+
+### ✍️ Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📄 Publications & Talks
+
+- K. Motomura, S. Shirakawa, T. Nagao — *Deep-learning prediction of fishing-vessel activity areas using VIIRS boat detection data and the adaptive temporal integration module AMTIM* (in Japanese), **Journal of the Remote Sensing Society of Japan**, 46(2), 2026
+- K. Motomura, T. Nagao — *Fishing Activity Prediction from Satellite Boat Detection Data*, **IEEE SMC 2020**, pp. 2870–2875
+- 🎤 Invited: Hands-on workshop on satellite data analysis with generative AI — **SPACE DAY 2026**
+- 🎤 Invited: The frontier of space data — new possibilities for the space industry opened by AI — **Product History Conference 2025**
+
+➡️ Full list on [researchmap](https://researchmap.jp/kazushi_fa)
 
 ### 🧰 Tech
 
